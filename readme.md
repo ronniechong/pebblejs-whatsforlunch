@@ -1,9 +1,9 @@
 #What's my lunch with PebbleJS and NodeJS
 
 ##The idea
-I made a simple random lunch generator using JS and Firebase [https://github.com/ronniechong/js-whatsforlunch]
+I made a simple random lunch generator using JS and Firebase [https://github.com/ronniechong/js-whatsforlunch] a while ago.
 
-I came across the PebbleJS when I was at the Nodebots International Day [http://nodebotsau.io/] and one of the attendant demo'd me the PebbleJS API and CloudPebble IDE. That pique my interest and I thought I gave it a go making a Pebble app. So I decided to try using my simple Firebase + JS app as one example. This app was prototyped in a couple hours.
+A week ago, I came across the PebbleJS when I was at the Nodebots International Day [http://nodebotsau.io/] and one of the attendant demo'd me the PebbleJS API and CloudPebble IDE. That piqued my interest and I thought I gave it a go making a Pebble app. So I decided to try using my simple Firebase + JS app as an example. This app was prototyped in a couple hours.
 
 Basically, the app fires an Ajax request to a Node Server and returns a random lunch venue. That will then displayed on the watch.
 
